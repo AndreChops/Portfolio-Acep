@@ -47,8 +47,8 @@ const Skills = () => {
 
             <div className="skills">
               <div className="details">
-                <span>HTML</span>
-                <span>80%</span>
+                <span>MySQL</span>
+                <span>70%</span>
               </div>
               <div className="bar">
                   <div id="html-bar"></div>
@@ -57,8 +57,8 @@ const Skills = () => {
 
             <div className="skills">
               <div className="details">
-                <span>CSS</span>
-                <span>90%</span>
+                <span>PHP</span>
+                <span>75%</span>
               </div>
               <div className="bar">
                   <div id="css-bar"></div>
@@ -67,7 +67,7 @@ const Skills = () => {
 
             <div className="skills">
               <div className="details">
-                <span>JavaScript</span>
+                <span>MongoDB</span>
                 <span>60%</span>
               </div>
               <div className="bar">

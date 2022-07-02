@@ -1,25 +1,27 @@
 import React from 'react'
 import './portfolio.css'
-import IMG1 from '../../assets/portfolio1.jpg'
+import ATM from '../../assets/ATM.png'
+import Travelokie from '../../assets/Travelokie.png'
+import Lowongan from '../../assets/Lowongan.png'
 
 const data = [
   {
     id: 1,
-    image: IMG1,
+    image: ATM,
     title: 'Anugrah Teknik Mandiri - Website',
     github: 'https://github.com',
     demo: 'https://cv-atm.com'
   },
   {
     id: 2,
-    image: IMG1,
+    image: Travelokie,
     title: 'Web Programming Final Exam Project - Travelokie',
     github: 'https://github.com',
     demo: 'https://sledge-hammer-fuses.000webhostapp.com/'
   },
   {
     id: 3,
-    image: IMG1,
+    image: Lowongan,
     title: 'Expert System Final Exam Project - Lowongan Programmer',
     github: 'https://github.com',
     demo: 'https://lowongan-programmer.000webhostapp.com/'
