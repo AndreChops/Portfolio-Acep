@@ -26,27 +26,27 @@ const data = [
     github: 'https://github.com',
     demo: 'https://lowongan-programmer.000webhostapp.com/'
   },
-  {
-    id: 4,
-    image: Lowongan,
-    title: 'Expert System Final Exam Project - Lowongan Programmer',
-    github: 'https://github.com',
-    demo: 'https://lowongan-programmer.000webhostapp.com/'
-  },
-  {
-    id: 5,
-    image: Lowongan,
-    title: 'Expert System Final Exam Project - Lowongan Programmer',
-    github: 'https://github.com',
-    demo: 'https://lowongan-programmer.000webhostapp.com/'
-  },
-  {
-    id: 6,
-    image: Lowongan,
-    title: 'Expert System Final Exam Project - Lowongan Programmer',
-    github: 'https://github.com',
-    demo: 'https://lowongan-programmer.000webhostapp.com/'
-  },
+  // {
+  //   id: 4,
+  //   image: Lowongan,
+  //   title: 'Expert System Final Exam Project - Lowongan Programmer',
+  //   github: 'https://github.com',
+  //   demo: 'https://lowongan-programmer.000webhostapp.com/'
+  // },
+  // {
+  //   id: 5,
+  //   image: Lowongan,
+  //   title: 'Expert System Final Exam Project - Lowongan Programmer',
+  //   github: 'https://github.com',
+  //   demo: 'https://lowongan-programmer.000webhostapp.com/'
+  // },
+  // {
+  //   id: 6,
+  //   image: Lowongan,
+  //   title: 'Expert System Final Exam Project - Lowongan Programmer',
+  //   github: 'https://github.com',
+  //   demo: 'https://lowongan-programmer.000webhostapp.com/'
+  // },
 
 ]
 
