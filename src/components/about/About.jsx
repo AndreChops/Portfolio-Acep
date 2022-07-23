@@ -16,10 +16,11 @@ const About = () => {
         </div>
 
         <div className="about__content">
+          <h2>Who am I ?</h2>
           <p>
-            Hi, I'm Andre Chandra Putra, most people call me acep. Currently studying Informatics at Universitas Multimedia Nusantara.
+            Hi, I'm Andre Chandra Putra, most people call me acepe. Currently studying Informatics at Universitas Multimedia Nusantara.
+            I'm interested on Web Development, mainly on the Front-End side.
             Thanks for visiting my personal website, this website was made using React Framework. 
-            You can contact me through my email andrechandra4817@gmail.com.
           </p>
 
           <a href='#contact' className='btn btn-primary'>Contact</a>
